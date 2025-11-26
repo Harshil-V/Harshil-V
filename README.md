@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshil-V&style=flat-square" />
   <img src="https://img.shields.io/badge/Location-San%20Jose%2C%20CA-00adb5?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cloud%20%7C%20DevTools-ffb400?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-4caf50?style=flat-square" />
